@@ -1,0 +1,12 @@
+{
+  "name": "bwbd-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server for RapidAPI requests",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
